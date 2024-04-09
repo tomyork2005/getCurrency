@@ -1,0 +1,21 @@
+# ninja log v5
+1	42	7342413459618782	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	89bc9026bf2ef429
+2453	2489	7342413484091987	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	d90d22164505a4d9
+1	42	7342413459618782	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	89bc9026bf2ef429
+42	2453	7342413483740942	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	7d0f15fcad666799
+42	2453	7342413483740942	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	7d0f15fcad666799
+2453	2489	7342413484091987	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	d90d22164505a4d9
+2631	2661	7342413485812584	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	a0179d05145494c2
+2598	2631	7342413485513858	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	63ed50c585c85ac4
+2489	2524	7342413484439154	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	c394289aa60f007b
+2489	2524	7342413484439154	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	c394289aa60f007b
+2524	2561	7342413484811432	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	d2bd98133d10162d
+2524	2561	7342413484811432	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	d2bd98133d10162d
+2561	2598	7342413485188837	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	fb2677aa470584b2
+2561	2598	7342413485188837	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	fb2677aa470584b2
+2598	2631	7342413485513858	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	63ed50c585c85ac4
+2631	2661	7342413485812584	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	a0179d05145494c2
+2661	2707	7342413486277328	CMakeFiles/curl-populate-complete	691e708db7fe33fd
+2661	2707	7342413486277328	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	691e708db7fe33fd
+2661	2707	7342413486277328	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	691e708db7fe33fd
+2661	2707	7342413486277328	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	691e708db7fe33fd

@@ -1,0 +1,21 @@
+# ninja log v5
+0	50	7343267057596441	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	dbc7f686f7853e0d
+0	50	7343267057596441	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	dbc7f686f7853e0d
+50	1509	7343267072189349	json-populate-prefix/src/json-populate-stamp/json-populate-download	f539b1bf07907920
+50	1509	7343267072189349	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	f539b1bf07907920
+1509	1547	7343267072567186	json-populate-prefix/src/json-populate-stamp/json-populate-update	50dc32fedca80933
+1509	1547	7343267072567186	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	50dc32fedca80933
+1550	1591	7343267073005886	json-populate-prefix/src/json-populate-stamp/json-populate-patch	e11d52a2bf2b227b
+1550	1591	7343267073005886	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	e11d52a2bf2b227b
+1591	1630	7343267073395180	json-populate-prefix/src/json-populate-stamp/json-populate-configure	be494b8d92f18463
+1591	1630	7343267073395180	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	be494b8d92f18463
+1630	1669	7343267073782089	json-populate-prefix/src/json-populate-stamp/json-populate-build	e2d2a44395c88a2b
+1630	1669	7343267073782089	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	e2d2a44395c88a2b
+1669	1709	7343267074185491	json-populate-prefix/src/json-populate-stamp/json-populate-install	bb3711dcfc0eea34
+1669	1709	7343267074185491	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	bb3711dcfc0eea34
+1709	1746	7343267074560848	json-populate-prefix/src/json-populate-stamp/json-populate-test	8207b978f99c6105
+1709	1746	7343267074560848	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	8207b978f99c6105
+1746	1798	7343267075081195	CMakeFiles/json-populate-complete	8495c997cea3b983
+1746	1798	7343267075081195	json-populate-prefix/src/json-populate-stamp/json-populate-done	8495c997cea3b983
+1746	1798	7343267075081195	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete	8495c997cea3b983
+1746	1798	7343267075081195	C:/Users/swuxy/CLionProjects/verylasssy/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	8495c997cea3b983
